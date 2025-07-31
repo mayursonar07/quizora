@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(135deg, #f0f4ff, #d0f0ff);
+  min-height: 100vh;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.form-control {
+  border-radius: 10px;
+}
+
+button.btn-success {
+  border-radius: 10px;
+}
